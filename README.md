@@ -168,6 +168,6 @@ http://localhost:8501
 
 ## 👨‍💻 Author
 
-**Divyanshu Singh Rajawat**
+**Ankit Roy**
 B.Tech Computer Science | Poornima University
-[GitHub](https://github.com/Divyanshusinghrajawat)
+[GitHub](https://github.com/Ankit0974)
